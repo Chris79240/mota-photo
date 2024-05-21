@@ -9,7 +9,7 @@ $random_images = get_posts(array(
     'no_found_rows' => true // Optimise la requête pour ne pas compter les résultats, plus rapide
 ));
 
-$hero_image_url = !empty($random_images) ? get_the_post_thumbnail_url($random_images[0]->ID, 'full') : get_stylesheet_directory_uri() . '/assets/images/header.png';
+$hero_image_url = !empty($random_images) ? get_the_post_thumbnail_url($random_images[0]->ID, 'full') : get_stylesheet_directory_uri() . '/assets/images/nathalie-0.jpeg';
 ?>
 
 <div class="hero" style="background-image: url('<?php echo esc_url($hero_image_url); ?>');">

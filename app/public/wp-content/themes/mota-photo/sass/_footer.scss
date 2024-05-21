@@ -1,0 +1,28 @@
+.footer-divider {
+    border-top: 1px solid #000000; /* Définit le style de la ligne */
+    width: 1440px; /* Largeur de la ligne */
+    margin-left: -150px;
+    text-align: center;
+}
+
+/* Styles pour le menu du footer */
+.footer-navigation ul {
+    list-style: none; /* Supprime les puces */
+    display: flex; /* Met les éléments du menu en ligne */
+    justify-content: space-evenly; 
+}
+
+.footer-navigation li {
+    margin: 0 -40px; /* Espacement horizontal entre les éléments du menu */
+}
+
+.footer-navigation a {
+    font-weight: 400;
+    text-decoration: none;
+    color: var(--color-dark-blue);
+    font-weight: bold;
+    }
+
+.footer-navigation a:hover, .footer-navigation a:focus {
+    font-weight: 700; 
+}

@@ -1,0 +1,56 @@
+/*************** COULEURS ***************/
+
+:root {
+    --color-black: #000000;
+    --color-dark-blue: #313144;
+    --color-dark-gray: #C4C4C4;
+    --color-medium-gray: #D8D8D8;
+    --color-light-gray: #E5E5E5;
+    --color-red: #E00000;
+    --color-secondary-red: #FE5858;
+    --color-tertiary-red: #FFD6D6;
+}
+
+/*************** STYLES ***************/
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    color: var(--color-black);
+    background-color: var(--color-background);
+}
+
+h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+/*************** TYPOGRAPHIE ORDINATEUR ***************/
+/* Headings and Paragraphs */
+h1 {
+    font-family: 'Space Mono', monospace;
+    font-size: 96px;
+    font-style: italic;
+    font-weight: 700;
+    color: var(--color-black);
+}
+
+h2 {
+    font-family: 'Space Mono', monospace;
+    font-size: 66px;
+    font-style: italic;
+    font-weight: 400;
+}
+
+h3, .description-photo {
+    font-family: 'Space Mono', monospace;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+}
