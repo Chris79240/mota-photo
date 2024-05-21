@@ -97,3 +97,41 @@
 [21-May-2024 16:31:14 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 35
 [21-May-2024 16:31:14 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 35
 [21-May-2024 16:31:14 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 35
+[21-May-2024 17:01:07 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\single-photo.php on line 26
+[21-May-2024 17:01:07 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\single-photo.php on line 26
+[21-May-2024 17:01:07 UTC] PHP Warning:  Array to string conversion in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-includes\formatting.php on line 1108
+[21-May-2024 17:02:29 UTC] PHP Warning:  Undefined property: WP_Error::$name in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\single-photo.php on line 26
+[21-May-2024 17:02:29 UTC] PHP Warning:  Undefined property: WP_Error::$name in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\single-photo.php on line 26
+[21-May-2024 17:02:29 UTC] PHP Warning:  Array to string conversion in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-includes\formatting.php on line 1108
+[21-May-2024 17:03:02 UTC] PHP Warning:  Undefined property: WP_Error::$name in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\single-photo.php on line 26
+[21-May-2024 17:03:02 UTC] PHP Warning:  Undefined property: WP_Error::$name in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\single-photo.php on line 26
+[21-May-2024 17:03:02 UTC] PHP Warning:  Array to string conversion in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-includes\formatting.php on line 1108
+[21-May-2024 17:05:56 UTC] PHP Warning:  Undefined property: WP_Error::$name in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\single-photo.php on line 26
+[21-May-2024 17:05:56 UTC] PHP Warning:  Undefined property: WP_Error::$name in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\single-photo.php on line 26
+[21-May-2024 17:05:56 UTC] PHP Warning:  Array to string conversion in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-includes\formatting.php on line 1108
+[21-May-2024 17:07:49 UTC] PHP Warning:  Undefined property: WP_Error::$name in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\single-photo.php on line 26
+[21-May-2024 17:07:49 UTC] PHP Warning:  Undefined property: WP_Error::$name in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\single-photo.php on line 26
+[21-May-2024 17:07:49 UTC] PHP Warning:  Array to string conversion in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-includes\formatting.php on line 1108
+[21-May-2024 17:12:13 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 17:12:13 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 17:12:13 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 17:12:13 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 17:12:13 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 35
+[21-May-2024 17:12:13 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 35
+[21-May-2024 17:12:13 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 35
+[21-May-2024 17:12:13 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 35
+[21-May-2024 17:19:32 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\single-photo.php on line 26
+[21-May-2024 17:19:32 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\single-photo.php on line 26
+[21-May-2024 17:19:32 UTC] PHP Warning:  Array to string conversion in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-includes\formatting.php on line 1108
+[21-May-2024 17:19:55 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 17:19:55 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 17:19:55 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 17:19:55 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 17:30:32 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 17:30:32 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 17:30:32 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 17:30:32 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 17:39:56 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 17:39:56 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 17:39:56 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 17:39:56 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25

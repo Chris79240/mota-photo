@@ -155,6 +155,26 @@ p {
   }
 }
 /*************** SINGLE PHOTO  ***************/
+/*************** FILTRES  ***************/
+@media (max-width: 425px) {
+  #photo-filters {
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+    margin: 20px -10px;
+  }
+}
+/*************** GALERIE PHOTOS  ***************/
+@media (max-width: 425px) {
+  #photo-gallery {
+    grid-template-columns: 1fr;
+    gap: 5px;
+    max-width: 425px;
+  }
+  #load-more-photos {
+    margin-left: 33%;
+  }
+}
 /*************** FOOTER ***************/
 .site-navigation ul {
   list-style: none;
@@ -378,4 +398,113 @@ button.nav-toggler {
 .divider {
   width: 1150px;
   border-top: 1px solid #000000;
+}
+
+#photo-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* 2 colonnes */
+  gap: 10px; /* Espacement entre les images */
+  max-width: 1300px; /* Largeur maximale de la galerie */
+  margin: 20px auto; /* Centre la galerie horizontalement */
+}
+
+#photo-gallery div {
+  float: left;
+}
+
+#load-more-photos {
+  margin-left: 46%;
+}
+
+button#load-more-photos {
+  border: none;
+  font-family: "Space Mono";
+  color: #000000;
+  background-color: #C4C4C4;
+}
+
+button#load-more-photos:hover {
+  background-color: #C4C4C4;
+  font-family: "Space Mono";
+  color: #000000;
+  cursor: default;
+  border: none;
+}
+
+img {
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: center;
+     object-position: center;
+}
+
+.photo-block {
+  position: relative; /* Nécessaire pour positionner correctement l'image */
+  display: inline-block;
+  cursor: pointer;
+  width: 100%; /* Utilise 100% de la colonne */
+  height: 550px; /* Hauteur fixe pour tous les blocs de photos */
+  overflow: hidden; /* Masque les débordements */
+}
+
+.photo-block img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.photo-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(150, 150, 150, 0.8); /* Gris foncé semi-transparent */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.photo-icon::after {
+  content: "";
+  background-image: url("../assets/images/icon_eye.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 50px;
+  height: 50px;
+}
+
+.photo-block:hover .photo-icon {
+  opacity: 1;
+}
+
+#photo-filters {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 550px;
+  align-items: center;
+}
+
+#photo-filters select {
+  width: 180px; /* Largeur fixe pour les listes déroulantes */
+  height: 38px; /* Hauteur fixe pour les listes déroulantes */
+  padding: 5px 10px;
+  box-sizing: border-box;
+  margin-left: 150px;
+}
+
+#photo-category {
+  margin-right: 50px;
+}
+
+.photo-filter-group {
+  display: flex;
+  gap: 20px; /* Espace entre les deux premiers filtres */
+}
+
+/* Align the third select to the right */
+#photo-sort {
+  margin-left: auto; /* Pousse le sélecteur de tri vers la droite */
 }/*# sourceMappingURL=style.css.map */

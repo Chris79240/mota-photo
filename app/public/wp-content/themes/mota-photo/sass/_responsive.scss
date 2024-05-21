@@ -91,5 +91,30 @@
 
 
 
+/*************** FILTRES  ***************/
+
+@media (max-width: 425px){
+    #photo-filters {
+        display: flex;
+        align-items: stretch;
+        flex-direction: column;
+        margin: 20px -10px;
+    }
+}
+
+/*************** GALERIE PHOTOS  ***************/
+
+@media (max-width: 425px){
+    #photo-gallery {
+        grid-template-columns: 1fr;
+        gap: 5px;
+        max-width: 425px;
+    }
+
+    #load-more-photos {
+        margin-left: 33%;
+    }
+}
+
 /*************** FOOTER ***************/
 
