@@ -1,1 +1,10 @@
 [21-May-2024 11:54:47 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[21-May-2024 13:19:23 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[21-May-2024 13:26:17 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 13:26:17 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 13:26:17 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 13:26:17 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 25
+[21-May-2024 13:26:17 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 35
+[21-May-2024 13:26:17 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 35
+[21-May-2024 13:26:17 UTC] PHP Warning:  Attempt to read property "term_id" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 35
+[21-May-2024 13:26:17 UTC] PHP Warning:  Attempt to read property "name" on array in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-content\themes\mota-photo\front-page.php on line 35
