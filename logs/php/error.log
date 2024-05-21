@@ -1,0 +1,1 @@
+[21-May-2024 11:54:47 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\oserv\Local Sites\mota-photo\app\public\wp-includes\class-wp-customize-widgets.php on line 905
