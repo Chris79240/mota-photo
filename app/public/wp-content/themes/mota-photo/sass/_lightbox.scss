@@ -1,0 +1,91 @@
+.containerLightbox {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 1000;
+    display: none;
+}
+
+.lightbox-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 80%;
+    padding: 20px;
+    box-shadow: 0 0 10px #fff;
+    text-align: center;
+    color: #fff;
+    position: relative; 
+    margin: auto; 
+    padding: 20px; 
+    box-shadow: 0 0 20px #fff;
+}
+
+.lightboxClose {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 30px;
+    color: #fff;
+    cursor: pointer;
+}
+
+.lightboxPhoto img {
+    max-width: 90%;
+    max-height: 80%;    
+}
+
+.lightbox {
+    position: fixed; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%; 
+    background-color: rgba(0, 0, 0, 0.8); 
+    z-index: 1050; 
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+.lightbox-controls {
+    color: white; 
+    text-align: center; 
+    position: absolute; 
+    bottom: 20px; 
+    width: 100%;
+}
+
+.lightboxPrevious {
+    margin-right: 20px;
+}
+
+.lightboxNext {
+    margin-left: 20px;
+}
+
+
+
+.related-photos-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    max-width: 1150px;
+    margin-left: 27.5%;
+}
+
+.related-photos-container .photo-block {
+    flex: 1 1 48%;
+    margin: 10px;
+    margin-bottom: 70px;
+}
+
+#aussi {
+    margin: 65px 0 40px 27.6%;
+}
+
+
